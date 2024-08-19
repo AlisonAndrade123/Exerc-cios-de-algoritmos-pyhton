@@ -1,4 +1,4 @@
-#Escreva uma algoritmo que repetitivamente leia dois n ́umeros, limite inferior e limite supe-rior, e em seguida fa ca uma chamada a uma função que receba estes limites e imprima o intervalo delimitado pelos limites. O algoritmo deve ser interrompido quando as entradasforem 0 (zero).
+#Escreva um algoritmo que repetitivamente leia dois números, limite inferior e limite superior, e em seguida faça uma chamada a uma função que receba estes limites e imprima o intervalo delimitado pelos limites. O algoritmo deve ser interrompido quando as entradasforem 0 (zero).
 
 def num(li, ls):
     for i in range(li, ls+1):
